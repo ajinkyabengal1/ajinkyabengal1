@@ -1,4 +1,3 @@
-Here is a polished README file for your repository, tailored to highlight your strengths and achievements:
 
 ---
 
