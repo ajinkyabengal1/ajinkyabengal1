@@ -1,6 +1,4 @@
 
----
-
 # Hi 👋, I’m Ajinkya Bengal
 
 ### Frontend Engineer specialized in React.js development
