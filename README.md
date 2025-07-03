@@ -44,8 +44,8 @@ Feel free to explore my repositories for live demos, code patterns, and detailed
 
 <p align="left">
   <a href="https://github.com/ajinkyabengal1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ajinkyabengal1"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ajinkyabengal01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ajinkyabengal0127@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -72,5 +72,3 @@ Feel free to explore my repositories for live demos, code patterns, and detailed
 Feel free to reach out or explore my repositories to see more of my work!
 
 ---
-
-Let me know if you’d like to customize any section or add more details!
