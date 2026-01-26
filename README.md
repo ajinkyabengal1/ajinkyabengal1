@@ -22,9 +22,9 @@ Feel free to explore my repositories for live demos, code patterns, and detailed
 
 ## 🛠️ Tech Stack
 
-| Frontend                  | Backend                | Tools & Platforms      |
+| Frontend                  | Backend                | Tools & Platforms     |
 |---------------------------|------------------------|-----------------------|
-| React.js, Angular         | Node.js                | Git, GitHub, VS Code  |
+| React.js,Next.js,Svelte   | Node.js                | Git, GitHub, VS Code  |
 | Redux                     | REST APIs              | Tailwind CSS, SCSS    |
 | TypeScript, JavaScript    | MongoDB/PostgreSQL     | Vercel, Netlify       |
 
