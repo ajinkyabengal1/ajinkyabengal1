@@ -4,7 +4,7 @@
 ### Frontend Engineer specialized in React.js development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,html,css,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,js,ts,redux,html,css,tailwind,nodejs,npm,git,gitlab,vscode" />
 </p>
 
 ---
