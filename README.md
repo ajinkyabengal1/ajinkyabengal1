@@ -3,6 +3,8 @@
 
 ### Frontend Engineer specialized in React.js development
 
+🌐 **Portfolio:** [ajinkyabengal.in](https://www.ajinkyabengal.in)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,js,ts,redux,html,css,tailwind,nodejs,npm,git,gitlab,vscode" />
 </p>
@@ -40,6 +42,7 @@ Feel free to explore my repositories for live demos, code patterns, and detailed
 ## 📫 Connect with Me
 
 <p align="left">
+  <a href="https://www.ajinkyabengal.in"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/ajinkyabengal1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ajinkyabengal01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ajinkyabengal0127@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
